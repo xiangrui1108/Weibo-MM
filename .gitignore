@@ -1,0 +1,18 @@
+# 图片与压缩包：体积过大，不进 git（images/ 共 67,321 个文件，14 GB）
+images/
+*.rar
+
+# 备份与本地缓存
+*.bak
+*.bak2
+upload.log
+.vscode/
+.workbuddy-ai/
+
+# 不上传的脚本
+weibo_crawler.py
+update.py
+
+# 映射表等敏感文件
+userid_mapping*.csv
+*.local.*
