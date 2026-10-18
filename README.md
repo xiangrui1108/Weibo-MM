@@ -1,23 +1,3 @@
----
-license: other
-license_name: research-only
-license_link: https://huggingface.co/datasets/xiangrui1108/WeiboMM
-language:
-  - zh
-task_categories:
-  - image-to-text
-tags:
-  - weibo
-  - social-media
-  - multimodal
-  - chinese
-  - engagement-prediction
-  - popularity-prediction
-  - anonymized
-size_categories:
-  - 10K<n<100K
-pretty_name: WeiboMM
----
 
 # WeiboMM
 
