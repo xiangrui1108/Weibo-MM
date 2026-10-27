@@ -12,17 +12,6 @@ This dataset is the **data implementation used in our paper**:
 
 > **DRIFT: Distribution-Routing with Injected Semantic Priors and Fused Temporal Encoding for Popularity Prediction**
 
-|             |                                                                                                           |
-| ----------- | --------------------------------------------------------------------------------------------------------- |
-| Authors     | Qinqing Jia, Zhe Xue, Qinlan Liu, Shilong Ou, Xiangrui Liu, Sihan Zhao                                    |
-| Venue       | ICIC 2026 — 22nd International Conference on Intelligent Computing, Toronto, ON, Canada, July 22–26, 2026 |
-| Proceedings | *Advanced Intelligent Computing Technology and Applications*, Part V                                      |
-| Series      | Lecture Notes in Computer Science, Vol. 16646                                                             |
-| Pages       | 581–591                                                                                                   |
-| Publisher   | Springer Nature Singapore                                                                                 |
-| DOI         | [10.1007/978-981-92-3394-6\_49](https://doi.org/10.1007/978-981-92-3394-6_49)                             |
-| ACM DL      | <https://dl.acm.org/doi/10.1007/978-981-92-3394-6_49>                                                     |
-
 If you use this dataset, please cite the paper above — see [Citation](#citation).
 
 ## Dataset statistics
@@ -192,17 +181,6 @@ If you use this dataset, please cite our paper:
 本数据集是下列论文的**数据实现**：
 
 > **DRIFT: Distribution-Routing with Injected Semantic Priors and Fused Temporal Encoding for Popularity Prediction**
-
-|        |                                                                               |
-| ------ | ----------------------------------------------------------------------------- |
-| 作者     | Qinqing Jia, Zhe Xue, Qinlan Liu, Shilong Ou, Xiangrui Liu, Sihan Zhao        |
-| 会议     | ICIC 2026（第 22 届国际智能计算会议），加拿大多伦多，2026 年 7 月 22–26 日                           |
-| 论文集    | *Advanced Intelligent Computing Technology and Applications*, Part V          |
-| 丛书     | Lecture Notes in Computer Science，第 16646 卷                                   |
-| 页码     | 581–591                                                                       |
-| 出版方    | Springer Nature Singapore                                                     |
-| DOI    | [10.1007/978-981-92-3394-6\_49](https://doi.org/10.1007/978-981-92-3394-6_49) |
-| ACM DL | <https://dl.acm.org/doi/10.1007/978-981-92-3394-6_49>                         |
 
 如使用本数据集，请引用上述论文，详见[引用](#引用)。
 
