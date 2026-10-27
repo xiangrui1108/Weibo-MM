@@ -10,7 +10,7 @@ A Chinese multimodal Weibo dataset for **social media popularity prediction** �
 
 This dataset is the **data implementation used in our paper**:
 
-> **DRIFT: Distribution-Routing with Injected Semantic Priors and Fused Temporal Encoding for Popularity Prediction(https://doi.org/10.1007/978-981-92-3394-6_49)**
+> **[DRIFT: Distribution-Routing with Injected Semantic Priors and Fused Temporal Encoding for Popularity Prediction](https://doi.org/10.1007/978-981-92-3394-6_49)**
 
 If you use this dataset, please cite the paper above — see [Citation](#citation).
 
@@ -180,7 +180,7 @@ If you use this dataset, please cite our paper:
 
 本数据集是下列论文的**数据实现**：
 
-> **DRIFT: Distribution-Routing with Injected Semantic Priors and Fused Temporal Encoding for Popularity Prediction(https://doi.org/10.1007/978-981-92-3394-6_49)**
+> **[DRIFT: Distribution-Routing with Injected Semantic Priors and Fused Temporal Encoding for Popularity Prediction](https://doi.org/10.1007/978-981-92-3394-6_49)**
 
 如使用本数据集，请引用上述论文，详见[引用](#引用)。
 
