@@ -139,31 +139,6 @@ If you use this dataset, please cite our paper:
 }
 ```
 
-**ACM Reference Format**
-
-> Qinqing Jia, Zhe Xue, Qinlan Liu, Shilong Ou, Xiangrui Liu, and Sihan Zhao. 2026. DRIFT: Distribution-Routing with Injected Semantic Priors and Fused Temporal Encoding for Popularity Prediction. In *Advanced Intelligent Computing Technology and Applications* (ICIC 2026). Lecture Notes in Computer Science, Vol. 16646. Springer, Singapore, 581–591. <https://doi.org/10.1007/978-981-92-3394-6_49>
-
-**APA 7th**
-
-> Jia, Q., Xue, Z., Liu, Q., Ou, S., Liu, X., & Zhao, S. (2026). DRIFT: Distribution-routing with injected semantic priors and fused temporal encoding for popularity prediction. In D.-S. Huang, C. Zhang, W. Chen, B. Li, Q. Zhang, W. Bao, Y. Pan, & P. Premaratne (Eds.), *Advanced intelligent computing technology and applications* (Lecture Notes in Computer Science, Vol. 16646, pp. 581–591). Springer. <https://doi.org/10.1007/978-981-92-3394-6_49>
-
-**GB/T 7714-2015**
-
-> JIA Q, XUE Z, LIU Q, et al. DRIFT: distribution-routing with injected semantic priors and fused temporal encoding for popularity prediction[C]//Advanced Intelligent Computing Technology and Applications: ICIC 2026. Lecture Notes in Computer Science, Vol. 16646. Singapore: Springer, 2026: 581-591. DOI: 10.1007/978-981-92-3394-6_49.
-
-**Citing the dataset itself**
-
-```bibtex
-@misc{jia2026weibo-mm,
-  author       = {Jia, Qinqing and Xue, Zhe and Liu, Qinlan and Ou, Shilong and Liu, Xiangrui and Zhao, Sihan},
-  title        = {{Weibo-MM}: A Chinese Multimodal Weibo Dataset for Popularity Prediction},
-  year         = {2026},
-  publisher    = {GitHub},
-  howpublished = {\url{https://github.com/xiangrui1108/Weibo-MM}},
-  note         = {Companion dataset of the DRIFT paper (ICIC 2026)}
-}
-```
-
 ---
 
 [English](#weibo-mm) | **简体中文**
@@ -306,31 +281,6 @@ for r in records[:3]:
   address   = {Singapore},
   doi       = {10.1007/978-981-92-3394-6_49},
   isbn      = {978-981-92-3393-9}
-}
-```
-
-**GB/T 7714-2015**
-
-> JIA Q, XUE Z, LIU Q, et al. DRIFT: distribution-routing with injected semantic priors and fused temporal encoding for popularity prediction[C]//Advanced Intelligent Computing Technology and Applications: ICIC 2026. Lecture Notes in Computer Science, Vol. 16646. Singapore: Springer, 2026: 581-591. DOI: 10.1007/978-981-92-3394-6_49.
-
-**ACM Reference Format**
-
-> Qinqing Jia, Zhe Xue, Qinlan Liu, Shilong Ou, Xiangrui Liu, and Sihan Zhao. 2026. DRIFT: Distribution-Routing with Injected Semantic Priors and Fused Temporal Encoding for Popularity Prediction. In *Advanced Intelligent Computing Technology and Applications* (ICIC 2026). Lecture Notes in Computer Science, Vol. 16646. Springer, Singapore, 581–591. <https://doi.org/10.1007/978-981-92-3394-6_49>
-
-**APA 第 7 版**
-
-> Jia, Q., Xue, Z., Liu, Q., Ou, S., Liu, X., & Zhao, S. (2026). DRIFT: Distribution-routing with injected semantic priors and fused temporal encoding for popularity prediction. In D.-S. Huang, C. Zhang, W. Chen, B. Li, Q. Zhang, W. Bao, Y. Pan, & P. Premaratne (Eds.), *Advanced intelligent computing technology and applications* (Lecture Notes in Computer Science, Vol. 16646, pp. 581–591). Springer. <https://doi.org/10.1007/978-981-92-3394-6_49>
-
-**引用数据集本身**
-
-```bibtex
-@misc{jia2026weibo-mm,
-  author       = {Jia, Qinqing and Xue, Zhe and Liu, Qinlan and Ou, Shilong and Liu, Xiangrui and Zhao, Sihan},
-  title        = {{Weibo-MM}: A Chinese Multimodal Weibo Dataset for Popularity Prediction},
-  year         = {2026},
-  publisher    = {GitHub},
-  howpublished = {\url{https://github.com/xiangrui1108/Weibo-MM}},
-  note         = {DRIFT 论文（ICIC 2026）配套数据集}
 }
 ```
 
