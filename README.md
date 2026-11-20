@@ -6,14 +6,6 @@ A Chinese multimodal Weibo dataset for **social media popularity prediction** �
 
 **Repository:** <https://github.com/xiangrui1108/Weibo-MM>
 
-## Paper
-
-This dataset is the **data implementation used in our paper**:
-
-> **[DRIFT: Distribution-Routing with Injected Semantic Priors and Fused Temporal Encoding for Popularity Prediction](https://doi.org/10.1007/978-981-92-3394-6_49)**
-
-If you use this dataset, please cite the paper above — see [Citation](#citation).
-
 ## Dataset statistics
 
 | Item                           | Count   |
@@ -119,26 +111,6 @@ for r in records[:3]:
 - `metrics_history` records interaction counts at the time of collection and does not represent the final state.
 - For the complete image data, contact `2026140643@bupt.cn`.
 
-## Citation
-
-If you use this dataset, please cite our paper:
-
-```bibtex
-@inproceedings{jia2026drift,
-  author    = {Jia, Qinqing and Xue, Zhe and Liu, Qinlan and Ou, Shilong and Liu, Xiangrui and Zhao, Sihan},
-  title     = {{DRIFT}: Distribution-Routing with Injected Semantic Priors and Fused Temporal Encoding for Popularity Prediction},
-  booktitle = {Advanced Intelligent Computing Technology and Applications},
-  series    = {Lecture Notes in Computer Science},
-  volume    = {16646},
-  pages     = {581--591},
-  year      = {2026},
-  publisher = {Springer Nature Singapore},
-  address   = {Singapore},
-  doi       = {10.1007/978-981-92-3394-6_49},
-  isbn      = {978-981-92-3393-9}
-}
-```
-
 ---
 
 [English](#weibo-mm) | **简体中文**
@@ -150,14 +122,6 @@ If you use this dataset, please cite our paper:
 中文微博多模态数据集，用于**社交媒体热度预测**：**29,612 条**微博帖子 + **67,321 张**配图，每条帖子附带 **15 轮**发布后的互动量快照（转发 / 评论 / 点赞），适用于社交媒体热度预测、多模态内容理解、时序建模等研究。
 
 **仓库地址：** <https://github.com/xiangrui1108/Weibo-MM>
-
-### 论文
-
-本数据集是下列论文的**数据实现**：
-
-> **[DRIFT: Distribution-Routing with Injected Semantic Priors and Fused Temporal Encoding for Popularity Prediction](https://doi.org/10.1007/978-981-92-3394-6_49)**
-
-如使用本数据集，请引用上述论文，详见[引用](#引用)。
 
 ### 数据规模
 
@@ -264,23 +228,4 @@ for r in records[:3]:
 - `metrics_history` 反映的是采集时刻的互动量快照，不代表最终状态。
 - 需要完整图像数据请联系 `2026140643@bupt.cn`。
 
-### 引用
-
-如使用本数据集，请引用我们的论文：
-
-```bibtex
-@inproceedings{jia2026drift,
-  author    = {Jia, Qinqing and Xue, Zhe and Liu, Qinlan and Ou, Shilong and Liu, Xiangrui and Zhao, Sihan},
-  title     = {{DRIFT}: Distribution-Routing with Injected Semantic Priors and Fused Temporal Encoding for Popularity Prediction},
-  booktitle = {Advanced Intelligent Computing Technology and Applications},
-  series    = {Lecture Notes in Computer Science},
-  volume    = {16646},
-  pages     = {581--591},
-  year      = {2026},
-  publisher = {Springer Nature Singapore},
-  address   = {Singapore},
-  doi       = {10.1007/978-981-92-3394-6_49},
-  isbn      = {978-981-92-3393-9}
-}
-```
 
